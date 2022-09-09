@@ -12,7 +12,7 @@ body {
 
 .container {
   background: hsl(212, 45%, 89%);
-  height: 95vh;
+  height: 680px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -57,4 +57,3 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
